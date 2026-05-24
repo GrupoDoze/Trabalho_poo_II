@@ -1,0 +1,5 @@
+C:\Users\PEDRO MARCOS\Downloads\SistemaCompanhiaAerea\SistemaCompanhiaAerea\bin\Debug\SistemaCompanhiaAerea.exe
+C:\Users\PEDRO MARCOS\Downloads\SistemaCompanhiaAerea\SistemaCompanhiaAerea\bin\Debug\SistemaCompanhiaAerea.pdb
+C:\Users\PEDRO MARCOS\Downloads\SistemaCompanhiaAerea\SistemaCompanhiaAerea\obj\Debug\SistemaCompanhiaAerea.csprojResolveAssemblyReference.cache
+C:\Users\PEDRO MARCOS\Downloads\SistemaCompanhiaAerea\SistemaCompanhiaAerea\obj\Debug\SistemaCompanhiaAerea.exe
+C:\Users\PEDRO MARCOS\Downloads\SistemaCompanhiaAerea\SistemaCompanhiaAerea\obj\Debug\SistemaCompanhiaAerea.pdb
